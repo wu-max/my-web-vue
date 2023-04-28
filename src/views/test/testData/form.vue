@@ -10,7 +10,7 @@
     :okAuth="'test:testData:edit'"
     @register="registerDrawer"
     @ok="handleSubmit"
-    width="80%"
+    width="70%"
   >
     <template #title>
       <Icon :icon="getTitle.icon" class="pr-1 m-1" />
